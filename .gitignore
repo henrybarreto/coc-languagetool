@@ -1,0 +1,13 @@
+# Node and NPM related files.
+node_modules/
+
+# Vim/NeoVim related files.
+.vim
+*.swp
+
+# VSCode related files.
+.vscode
+
+# 
+data/
+lib/
